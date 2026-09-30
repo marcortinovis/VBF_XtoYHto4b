@@ -112,6 +112,6 @@ ROOT was used as pyROOT, that is directly in python. ```root-config --version: 6
 │
 └── mjj_dnn_comp                                - comparisons between fetch_and_analyse.py results for
     │                                             --mjj and --dnn. comes from make_purity_plots.py with
-    │						  the --comp option
+    │						  					  the --comp option
     └── plots/
 ```
