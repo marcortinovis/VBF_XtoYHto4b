@@ -38,8 +38,8 @@ ROOT was used as pyROOT, that is directly in python. ```root-config --version: 6
 ├── requirements.txt                            - list of all the python packages installed 
 │                                                 and used during the project
 │
-├── paths.py					                - list of paths where all the samples are
-│						                          stored (to be provided)
+├── paths.py                                    - list of paths where all the samples are
+│                                                 stored (to be provided)
 │
 │   # ----------------------------------------------------------------------------------------
 │
