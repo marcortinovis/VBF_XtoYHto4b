@@ -33,7 +33,7 @@ ROOT was used as pyROOT, that is directly in python. ```root-config --version: 6
 
 **Structure:**
 ```text
-.   # -------------------------------------------------------------------------------------------------------
+.   # ----------------------------------------------------------------------------------------
 │
 ├── requirements.txt                            - list of all the python packages installed 
 │                                                 and used during the project
